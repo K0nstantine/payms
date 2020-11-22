@@ -1,5 +1,7 @@
 <resources>
-    <string name="app_name">MyPaims</string>
+    <string name="app_name">MyPayms</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
 </resources>
